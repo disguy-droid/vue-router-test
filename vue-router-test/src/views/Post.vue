@@ -7,8 +7,6 @@ const route = useRoute();
 
 </script>
 
-
-
 <template>
     <div class="post-container">
         <h2>

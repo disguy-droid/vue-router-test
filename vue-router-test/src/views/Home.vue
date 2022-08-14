@@ -37,7 +37,4 @@ h2 {
 .router-link {
     text-decoration: none;
 }
-
-
-
 </style>
